@@ -1,1 +1,10 @@
+Tools Used – FUTURE_CS_01
+
+1. Burp Suite Community Edition
+2. SQLMap
+3. Firefox Developer Tools
+4. DVWA (Damn Vulnerable Web App)
+5. Docker & Docker Compose
+6. Screenshot Tool (Kali Linux)
+7. LibreOffice Writer / MS Word (for report writing)
 
